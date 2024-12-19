@@ -20,22 +20,22 @@ preferences_i18n:
         heading-shadows-description: "You can enable additional shadows for the heading to make them appear more bold."
     pl:
         page-title: "Preferencje"
-        page-description: "Ta strona pozwala ustawić różne preferencje do czytania dokumentacji:"
+        page-description: "Tutaj zmienisz swoje preferencje w wyświetlaniu dokumentacji."
         color-title: "Kolor"
-        color-description: "Możesz zmienić nastrój strony poprzez zmianę koloru."
-        color-input-accent-title: "Wybierz kolor akcentujący"
+        color-description: "Możesz zmienić styl strony na przykład przez zmianę koloru."
+        color-input-accent-title: "Wybierz kolor akcentu"
         color-input-hue-title: "Wybierz kolor odcienia"
         color-button-reset: "Zresetuj kolory"
         custom-title: "Własny CSS"
-        custom-description: "Możesz dodać niestandardowe arkusze stylów."
+        custom-description: "Możesz dodać własne arkusze stylów."
         custom-textarea-title: "Wprowadź CSS"
         font-title: "Czcionka"
-        font-description: "Możesz zmienić czcionkę na predefiniowany."
+        font-description: "Możesz zmienić czcionkę na taką z innym presetem."
         font-selection-title: "Wybierz czcionkę"
         font-selection-default: "Domyślna"
         font-selection-opendyslexic: "OpenDyslexic"
         heading-shadows-title: "Cienie nagłówków"
-        heading-shadows-description: "Możesz włączyć dodatkowe cienie do nagłówków żeby wyglądały bardziej pogrubione."
+        heading-shadows-description: "Możesz włączyć dodatkowe cienie do nagłówków żeby wyglądały na bardziej pogrubione."
 ---
 # {{ page-title }}
 
