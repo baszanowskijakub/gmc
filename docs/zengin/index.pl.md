@@ -1,6 +1,6 @@
 # ZenGin
 
-Silnik gry **ZenGin** jest używany w grach Gothic 1 i 2. Ta sekcja zawiera dokumentację różnych aspektów modowania ZenGin.
+Silnik zarówno Gothica 1 jak i 2 nazywa się **ZenGin**. Ta sekcja opisuje aspekty moddingu związane z ZenGin.
 
 <div class="grid cards" markdown>
 
@@ -8,12 +8,12 @@ Silnik gry **ZenGin** jest używany w grach Gothic 1 i 2. Ta sekcja zawiera doku
 
     ---
 
-    ZenGin używa własnego języka skryptowego o nazwie Daedalus. Sprawdź jego funkcje, klasy i extendery.
+    ZenGin używa własnego języka skryptowego o nazwie Daedalus. Sprawdź jego funkcje, klasy oraz extendery.
 
     [:octicons-arrow-right-24: Skrypty](scripts/index.md)
 
 
--  :fontawesome-solid-cube:{ .lg .middle } __Klasy Vob__
+-  :fontawesome-solid-cube:{ .lg .middle } __Klasy Vobów__
 
     ---
 
@@ -22,7 +22,7 @@ Silnik gry **ZenGin** jest używany w grach Gothic 1 i 2. Ta sekcja zawiera doku
     [:octicons-arrow-right-24: zCVob](worlds/Classes/zCVob/index.md)
 
 
--  :fontawesome-solid-person-walking-arrow-loop-left:{ .lg .middle } __Sekcja Animacji__
+-  :fontawesome-solid-person-walking-arrow-loop-left:{ .lg .middle } __Animacje__
 
     ---
 
@@ -35,7 +35,7 @@ Silnik gry **ZenGin** jest używany w grach Gothic 1 i 2. Ta sekcja zawiera doku
 
     ---
 
-    Naucz się jak tworzyć pluginy za pomocą Union SDK, stworzonego przez fanów narzędzia deweloperskiego dla silnika ZenGin.
+    Naucz się jak tworzyć pluginy za pomocą Uniona SDK, narzędzia deweloperskiego stworzonego przez modderów dla silnika ZenGin.
 
     [:octicons-arrow-right-24: Pierwsze kroki](union/sdk/getting_started.md)
 </div>
