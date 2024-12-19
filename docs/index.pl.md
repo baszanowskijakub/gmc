@@ -1,9 +1,9 @@
-# Witamy na stronie Gothic Modding Community
+# Witamy w Gothic Modding Community
 
-Ta strona GitHub jest zaprojektowana w celu zawarcia zbioru artykułów, poradników oraz innej dokumentacji o Gothicu utrzymywanych przez społeczność.
+Ta strona została stworzona, aby gromadzić poradniki oraz inną dokumentację o Gothicu i utrzymywana jest przez społeczność.
 
-!!! Info "Informacja"
-    Zawartość strony nie jest przeznaczona, aby być uznaną za święte słowa moddingu. Jesteśmy tylko modderami dzielącymi się doświadczeniami, wiedzą oraz naszym ulubionym tokiem pracy.
+!!! Ważna informacja
+    Zawartość tej strony nie powinna być uznawana za święte słowa moddingu. Jesteśmy tylko modderami dzielącymi się swoimi doświadczeniami, wiedzą oraz sposobem w jaki pracujemy.
 
 <div class="grid cards" markdown>
 
@@ -11,7 +11,7 @@ Ta strona GitHub jest zaprojektowana w celu zawarcia zbioru artykułów, poradni
 
     ---
 
-    Jeśli masz jakieś pytania związane z modowaniem lub po prostu chcesz porozmawiać, dołącz do naszego serwera Discord.
+    Jeśli masz jakieś pytania związane z modowaniem lub po prostu chcesz porozmawiać, dołącz do naszego serwera na Discordzie.
 
     [:octicons-arrow-right-24: Discord](https://discord.gg/mCpS5b5SUY)
 
@@ -20,7 +20,7 @@ Ta strona GitHub jest zaprojektowana w celu zawarcia zbioru artykułów, poradni
 
     ---
 
-    Nie krępuj się, aby otworzyć prośbę o połączenie (ang. pull request) z twoim artykułem, lub z propozycją zmian. Tutaj znajdziesz pełną instrukcje jak to zrobić.
+    Nie krępuj się, aby otworzyć pull request z twoim artykułem lub z propozycją zmian. Tutaj znajdziesz pełną instrukcję jak to zrobić.
 
     [:octicons-arrow-right-24: Jak Się Udzielić](contribute/index.md)
 
@@ -28,7 +28,7 @@ Ta strona GitHub jest zaprojektowana w celu zawarcia zbioru artykułów, poradni
 
     ---
 
-    Dwie pierwsze części gier Gothic korzystają z silnika o nazwie ZenGin, stworzonego przez Piranha Bytes oraz grupę programistów o nazwie Mad Scientists. Jeżeli chcesz wiedzieć więcej o historii tworzenia, to jest masa informacji na Gothic Archive.
+    Dwie pierwsze części Gothica korzystają z silnika ZenGin, stworzonego przez Piranha Bytes oraz grupę programistów o nazwie Mad Scientists. Znajdziesz szczegółowe informacje na temat jego historii na Gothic Archive.
 
     [:octicons-arrow-right-24: Gothic Archive](https://gothicarchive.org/)
 
@@ -38,7 +38,7 @@ Ta strona GitHub jest zaprojektowana w celu zawarcia zbioru artykułów, poradni
 
     ---
 
-    Sprawdź nasze repozytorium GitHub, aby uzyskać kod źródłowy strony i informacje o aktualizacjach.
+    Odwiedź nasze repozytorium na GitHubie, aby uzyskać kod źródłowy strony i informacje o aktualizacjach.
 
     [:octicons-arrow-right-24: GitHub](https://github.com/Gothic-Modding-Community/gmc/)
 
